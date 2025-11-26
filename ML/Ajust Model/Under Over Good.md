@@ -50,6 +50,8 @@ from sklearn.metrics import accuracy_score
 
 # model = DecisionTreeClassifier(max_depth=maxDepth, random_state=42)
 # model.fit(X_train, y_train)
+
+# accuracy = accuracy_score(dataTarget, prediction)
 ```
 
 ---
