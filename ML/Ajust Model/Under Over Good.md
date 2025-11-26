@@ -48,6 +48,8 @@ from sklearn.metrics import accuracy_score
 # "kNN (k=15)": KNeighborsClassifier(n_neighbors=15)
 # "Random Forest": RandomForestClassifier(n_estimators=200, random_state=42)
 
+# model = DecisionTreeClassifier(max_depth=maxDepth, random_state=42)
+# model.fit(X_train, y_train)
 ```
 
 ---
