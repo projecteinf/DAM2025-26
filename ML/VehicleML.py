@@ -1,8 +1,7 @@
 """ 
 INSTRUCCIONS PREVIES
 
-sudo apt install python3-pip
-sudo apt install python3.13-venv
+sudo apt install python3-pip python3.11-venv -y
 python3 -m venv venv
 source venv/bin/activate
 python3 VehicleML.py 4 200
